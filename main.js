@@ -6,4 +6,4 @@
         }
 
     }
-    Vue.createApp(app).mount('#appd')
+    Vue.createApp(app).mount('#app')
